@@ -1,4 +1,4 @@
-## Your Name
+## Chris Cooper
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2016 to February 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Manchester Business School (September 2009 to September 2010)
 
-- Subject, any specialisms
-- Grade
+- MSc Quantitative Finance and Financial Engineering
+- Merit
 - Other cool stuff
 
-#### Any other qualifications
+#### University of Manchester (September 2006 to June 2009)
+
+- BSc Mathematics with Finance
+- First
+- Other cool stuff
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**AON** (September 2010 to October 2016)    
+*Investment Consultant*  
+
