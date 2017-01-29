@@ -4,7 +4,6 @@ After six years working as an investment analyst at Aon, I was after a new chall
 
 Having come through Makers Academy, an intensive 12 weeks coding bootcamp, I have developed a passion for writing clean, tested and reusable code. I am now an enthusiastic full stack junior developer looking for my first role in an environment where best practices are promoted and I can continue to learn at the rate set whilst at Makers Academy.
 
-
 ## Projects
 
 Here are a few of the projects I have worked on throughout my time at Makers Academy.
@@ -12,13 +11,13 @@ Here are a few of the projects I have worked on throughout my time at Makers Aca
 
 | Projects   | Description   | Technologies  | Testing |
 | ---------- |---------------| --------------| --------- |
-| [Apiify](https://github.com/oscar-barlow/apiify)  | A group project where we built a Ruby gem which helps build an API from data in csv format. | Ruby, Rails, Active Record, Thor | Rspec |
+| [Apiify](https://github.com/oscar-barlow/apiify)  | A group project where we built a Ruby gem which helps build an API from data in csv format. | Ruby, Rails, Thor | Rspec |
 | [Instagram Clone](https://github.com/cjcoops/instagram-challenge) | A homework challenge where I built an Instragram clone in my first week of using Rails. Try it [here](https://insta-clone-474.herokuapp.com/). | Ruby, Rails, JS, AJAX | Rspec, Capybara, Poltergeist |
 
 More can be found on my [Github](https://github.com/cjcoops).
 
 
-## About me
+## Skills
 
 #### Clear communication
 In my previous role as an investment consultant, I would provide investment advice to clients who often had a limited understanding of investment. This would require me to explain technical investment concepts in simple terms.
@@ -28,7 +27,7 @@ I learnt to listen to a client's specific needs, but I also learnt to be persuas
 #### Collaboration
 For each client account that I worked on, I was part of a different team. This required me to interact with new people all the time and form strong working relationships quickly.
 
-Group projects at Makers have given me practical, hands on experience of building applications as part of a team, holding daily stand-ups and retros and following Agile principles and XP values.
+Group projects at Makers have given me practical, hands on experience of building applications as part of a team, holding daily stand-ups and retros using agile methodologies and and following XP values.
 
 #### Project management
 On a number of my clients I had the role of service manager. This meant that I was responsible for the coordination of routine and project work within each of those client teams. This would involve me liaising with both senior and junior colleagues as well as the client to ensure the work was completed.
@@ -51,19 +50,16 @@ Senior colleagues often commented on the accuracy of my work and could rely on m
 
 #### Makers Academy (November 2016 to February 2017)
 
-Makers Academy is a 12 week intensive coding academy with a focus on OOP, SOLID, TDD and software craftsmanship. We learn through pair programming and working in teams on
+Makers Academy is a 12 week intensive coding academy with a focus on OOP, SOLID, TDD, and software craftsmanship. Through this I have developed a passion for writing clean, tested and reusable code.
 
-We pair program every day learning teamwork, agile, best practices  Through this I have developed a passion for writing clean, tested and reusable code.
+Through pair programming and learning by doing, I have learnt an incredible amount in a relatively short period of time. The experience has given me the tools I need to solve problems on my own
+and to become an independent junior developer.
 
-teamwork, best practice, TDD, agile, communication, delivering value to a user - and, most importantly, independent problem-solving.
-
-I have learnt an incredible amount in such short space of time through pair programming, learning by doing and self-guided learning.
-
-It has turned me into an independent junior developer by developing my approach to problem solving and providing me with the tools I need to figure things out for myself. Knowing where to look for help and solve problems myself
+Not only have I learnt how to code, but the course has also provided me practical hands on experience of working as part of an agile team and ultimately how to deliver value to a user.
 
 The main technologies I have used over my time here are Ruby and Javascript.
 
-Look around my [github](https://github.com/cjcoops) to see how far I've come in 12 weeks.
+Look around my [Github](https://github.com/cjcoops) to see how far I've come in 12 weeks.
 
 #### Manchester Business School (September 2009 to September 2010)
 
