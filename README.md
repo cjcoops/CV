@@ -1,6 +1,6 @@
 ## Chris Cooper
 
-After six years working as an investment analyst at Aon, I wanted a new challenge and made the decision to learn to code. I was attracted by a career in which I would be continually learning, and where I could use my problem solving skills to build things that I could be proud of.
+After six years working as an investment analyst at Aon, I was eager for a new challenge and made the decision to learn to code. I was attracted by a career in which I would be continually learning, and where I could use my problem solving skills to build things that I could be proud of.
 
 Having come through Makers Academy, an intensive 12 week coding bootcamp, I have developed a passion for writing clean, tested and reusable code. I am now a competent and enthusiastic full stack junior developer looking for my first role in an environment where best practices are promoted and I can continue to learn at the rate set whilst at Makers Academy.
 
@@ -11,9 +11,9 @@ Here are a few of the projects I have worked on throughout my time at Makers Aca
 
 | Projects   | Description   | Technologies  | Testing |
 | ---------- |---------------| --------------| --------- |
-|[Just Jam](https://github.com/Gweaton/just-jam)|A group project where in 10 days we built a web app to connect musicians looking to start a band. Try it [here](http://just-jam.herokuapp.com/).| Node.js, MongoDB, JS |Mocha, Zombie|
+|[Just Jam](https://github.com/Gweaton/just-jam)|A group project where in 8 days we built a web app to connect musicians looking to start a band. Try it [here](http://just-jam.herokuapp.com/).| Node.js, MongoDB, JS |Mocha, Zombie.js|
 | [Instagram Clone](https://github.com/cjcoops/instagram-challenge) | A homework challenge where I built an Instragram-like web app in my first week of using Rails. Try it [here](https://insta-clone-474.herokuapp.com/). | Ruby, Rails, PostgreSQL, JS, AJAX | Rspec, Capybara |
-| [Apiify](https://github.com/oscar-barlow/apiify)  | A group project where in 4 days we built a Ruby gem which helps build an API from data in csv format. | Ruby, Rails, Thor | Rspec |
+| [Apiify](https://github.com/oscar-barlow/apiify)  | A group project where in 4 days we built a Ruby gem which helps build an Rails API from data in csv format. | Ruby, Rails, Thor | Rspec |
 
 More can be found on my [Github](https://github.com/cjcoops).
 
