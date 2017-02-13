@@ -12,8 +12,9 @@ Here are a few of the projects I have worked on throughout my time at Makers Aca
 | Projects   | Description   | Technologies  | Testing |
 | ---------- |---------------| --------------| --------- |
 |[Just Jam](https://github.com/Gweaton/just-jam)|A group project where in 8 days we built a web app to connect musicians looking to start a band. Try it [here](http://just-jam.herokuapp.com/).| Node.js, MongoDB, JS |Mocha, Zombie.js|
-| [Instagram Clone](https://github.com/cjcoops/instagram-challenge) | A homework challenge where I built an Instragram-like web app in my first week of using Rails. Try it [here](https://insta-clone-474.herokuapp.com/). | Ruby, Rails, PostgreSQL, JS, AJAX | Rspec, Capybara |
+| [Instagram Clone](https://github.com/cjcoops/instagram-challenge) | A homework challenge where I built an Instragram-like web app in my first week of using Rails. Try it [here](https://insta-clone-474.herokuapp.com/). | Ruby, Rails, PostgreSQL, JS | Rspec, Capybara |
 | [Apiify](https://github.com/oscar-barlow/apiify)  | A group project where in 4 days we built a Ruby gem which helps build an Rails API from data in csv format. | Ruby, Rails, Thor | Rspec |
+| [Bowling](https://github.com/cjcoops/bowling-challenge)| A homework challenge where I built a 10 pin bowling scorer with an interface| Javascript, JQuery | Jasmine |
 
 More can be found on my [Github](https://github.com/cjcoops).
 
@@ -26,9 +27,9 @@ In my previous role as an investment consultant, I would provide investment advi
 I learnt to listen to a client's specific needs, but I also developed the communication skills to be persuasive and get my point across in a way which the client would understand.
 
 #### Collaboration
-For each client account that I worked on, I was part of a different team. This required me to interact with new people all the time and form strong working relationships quickly.
+For each client account that I worked on, I was part of a different team. This required me to interact with new people with differing skillsets and knowledge form strong working relationships quickly.
 
-Group projects at Makers have given me practical, hands on experience of building applications as part of a team, holding daily stand-ups and retros using agile methodologies and following XP values.
+Group projects at Makers have given me practical, hands on experience of building applications as part of a team using agile methodologies and following XP values.
 
 #### Project management
 On a number of my clients I had the role of service manager which meant that I was responsible for the coordination of routine and project work within each of those client teams. This would involve me liaising with both senior and junior colleagues as well as the client to ensure the work was completed on time and within budget.
@@ -79,4 +80,4 @@ I also spent a year on the portfolio management team where I was responsible for
 
 ## Interests
 
-When I'm not coding I enjoy keeping healthy through yoga and climbing, as well as going out to listen to live music. I also love to travel and two years ago took a career break to travel around Central and South America for six months.
+When I'm not coding I enjoy keeping healthy through yoga and climbing, as well as listening to live music. I also love to travel and two years ago took a career break to travel around Central and South America for six months.
