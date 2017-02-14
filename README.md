@@ -29,12 +29,12 @@ I learnt to listen to a client's specific needs, but I also developed the commun
 #### Collaboration
 For each client account that I worked on, I was part of a different team. This required me to interact with new people with differing skillsets and knowledge and form strong working relationships quickly.
 
-Group projects at Makers have given me practical, hands on experience of building applications as part of a team using agile methodologies and following XP values.
+Group projects at Makers Academy have given me practical, hands on experience of building applications as part of a team using agile methodologies and following XP values.
 
 #### Project management
 On a number of my clients I had the role of service manager which meant that I was responsible for the coordination of routine and project work within each of those client teams. This would involve me liaising with both senior and junior colleagues as well as the client to ensure the work was completed on time and within budget.
 
-I am extremely comfortable with managing workflow, working to deadlines, dealing with uncertainty and handling specific client requirements. In group projects at Makers, other students commented on my ability to keep the team focussed on the goal of reaching MVP and keeping things simple.
+I am extremely comfortable with managing workflow, working to deadlines, dealing with uncertainty and handling specific client requirements. In group projects at Makers Academy, other students commented on my ability to keep the team focussed on the goal of reaching MVP and keeping things simple.
 
 #### Independent problem solver
 Although I love to pair program and contribute as part of a team,  I am just as comfortable working on my own if necessary. I have the discipline and a strong work ethic to get things done and have shown this through studying for and passing three exams for my [CFA qualification](https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx) whilst also working full time at Aon.
