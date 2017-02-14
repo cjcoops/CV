@@ -2,7 +2,7 @@
 
 After six years working as an investment analyst at Aon, I was eager for a new challenge and made the decision to learn to code. I was attracted by a career in which I would be continually learning, and where I could use my problem solving skills to build things that I could be proud of.
 
-Having come through Makers Academy, an intensive 12 week coding bootcamp, I have developed a passion for writing clean, tested and reusable code. I am now a competent and enthusiastic full stack junior developer looking for my first role in an environment where best practices are promoted and I can continue to learn at the rate set whilst at Makers Academy.
+Having come through [Makers Academy](http://www.makersacademy.com/), an intensive 12 week coding bootcamp, I have developed a passion for writing clean, tested and reusable code. I am now a competent and enthusiastic full stack junior developer looking for my first role in an environment where best practices are promoted and I can continue to learn at the rate set whilst at Makers Academy.
 
 ## Projects
 
@@ -24,17 +24,17 @@ More can be found on my [Github](https://github.com/cjcoops).
 #### Clear communication
 In my previous role as an investment consultant, I would provide investment advice to clients who often had a limited understanding of investment. As a result I learnt how to explain technical concepts in simple terms.
 
-I learnt to listen to a client's specific needs, but I also developed the communication skills to be persuasive and get my point across in a way which the client would understand.
+I learnt to listen to a client's specific needs, but I also developed the communication skills to be persuasive and get my point across in a way in which the client would understand.
 
 #### Collaboration
-For each client account that I worked on, I was part of a different team. This required me to interact with new people with differing skillsets and knowledge form strong working relationships quickly.
+For each client account that I worked on, I was part of a different team. This required me to interact with new people with differing skillsets and knowledge and form strong working relationships quickly.
 
 Group projects at Makers have given me practical, hands on experience of building applications as part of a team using agile methodologies and following XP values.
 
 #### Project management
 On a number of my clients I had the role of service manager which meant that I was responsible for the coordination of routine and project work within each of those client teams. This would involve me liaising with both senior and junior colleagues as well as the client to ensure the work was completed on time and within budget.
 
-I am extremely comfortable with managing workflow, working to deadlines, dealing with uncertainty and handling specific client requirements. In group projects at Makers I have been successful at keeping the team focussed on the goal of reaching MVP and keeping things simple.
+I am extremely comfortable with managing workflow, working to deadlines, dealing with uncertainty and handling specific client requirements. In group projects at Makers, other students commented on my ability to keep the team focussed on the goal of reaching MVP and keeping things simple.
 
 #### Independent problem solver
 Although I love to pair program and contribute as part of a team,  I am just as comfortable working on my own if necessary. I have the discipline and a strong work ethic to get things done and have shown this through studying for and passing three exams for my [CFA qualification](https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx) whilst also working full time at Aon.
@@ -44,17 +44,17 @@ Makers Academy is focussed on self learning and through the experience I have ac
 #### Attention to detail
 At Aon I would plan and manage transitions of large sums of money on behalf of clients. These transitions were often complex involving a number of moving parts and as such would require me to have excellent attention to detail and a thorough and considered approach.
 
-Senior colleagues often praised on the high quality and accuracy of my work and could rely on me to deliver with minimal oversight. As a developer these skills have enabled me to minimise the chance of bugs in my code and also to spot them when they do occur.
+Senior colleagues often praised the high quality and accuracy of my work and could rely on me to deliver with minimal oversight. As a developer these skills have enabled me to minimise the chance of bugs in my code although my love for problem solving means I enjoy seeking them out when they do occur!
 
 ## Education
 
 #### Makers Academy (November 2016 to February 2017)
 
-Makers Academy is a 12 week intensive coding academy with a focus on OOP, SOLID, TDD, and software craftsmanship. Through this I have developed a passion for writing clean, tested and reusable code.
+Makers Academy is a 12 week intensive coding bootcamp with a focus on OOP, SOLID, TDD, and software craftsmanship. Through this I have developed a passion for writing clean, tested and reusable code.
 
 Through pair programming and a learn-by-doing approach, I have learnt an incredible amount in a relatively short period of time. The experience has given me the tools I need to solve problems on my own and to become an independent junior developer.
 
-Not only have I learnt how to code, but the course has also provided me practical hands on experience of working as part of an agile team and ultimately how to deliver value to a user.
+Not only have I learnt how to code, but the course has also provided me with practical hands on experience of working as part of an agile team and ultimately how to deliver value to a user.
 
 Look around my [Github](https://github.com/cjcoops) to see how far I've come in 12 weeks.
 
